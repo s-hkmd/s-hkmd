@@ -7,7 +7,9 @@
 
 - [Dribble](https://dribbble.com/sho_hakamada/)
 
-<img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" alt="Hi" width="100%">
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" alt="Hi" width="75%">
+</p>
 
 <!-- 
 
