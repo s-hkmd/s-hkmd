@@ -3,7 +3,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=s-hkmd&theme=onedark&hide_border=true&date_format=%5BY.%5Dn.j" alt="github stats" height="200px" width="55%">
 </p>
 
-## 過去の制作実績 (追加予定)
+## Works
 
 - Dribble  
 https://dribbble.com/sho_hakamada
