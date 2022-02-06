@@ -1,15 +1,18 @@
-### Hi 👋
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-hkmd&theme=onedark&show_icons=true&layout=compact" alt="Top Langs" height="196px">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=s-hkmd&theme=onedark&hide_border=true&date_format=%5BY.%5Dn.j" alt="github stats">
+</p>
 
-<!--
 
-## 過去の制作案件
+
+## 過去の制作実績 (追加予定)
 
 - Dribble  
 https://dribbble.com/sho_hakamada
 
--->
 
-<!--
+
+<!-- 
 
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-hkmd&theme=onedark&show_icons=true&layout=compact" alt="Top Langs" height="200px">
@@ -18,4 +21,5 @@ https://dribbble.com/sho_hakamada
 <img src="http://github-readme-streak-stats.herokuapp.com?user=s-hkmd&theme=onedark&hide_border=true&date_format=%5BY.%5Dn.j" alt="github stats">
 <img src="https://github-profile-trophy.vercel.app/?username=s-hkmd&theme=onedark&row=1&column=6" alt="Top Langs">
 
--->
+
+ -->
